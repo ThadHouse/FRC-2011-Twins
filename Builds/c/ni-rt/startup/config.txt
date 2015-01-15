@@ -1,0 +1,11 @@
+This is the config file for Romulus
+
+[Auton]
+GainFast=0.0085
+GainSlow=0.009
+Distance=80
+Speed=0.75
+[Arm]
+P=0.01
+I=0.00
+D=0.00
